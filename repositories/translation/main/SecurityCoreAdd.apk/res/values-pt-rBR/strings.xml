@@ -328,4 +328,12 @@
   <string name="sdcradfs_dialog_in_sec_title">Atualização importante</string>
   <string name="sdcradfs_dialog_in_sec_message">Para atualizar, você deve excluir o Segundo Espaço e criá-lo novamente. Mova os dados do Segundo Espaço para o Primeiro Espaço, e reinicie o dispositivo para concluir a atualização.\nSe você não atualizar, os dual apps poderão não funcionar corretamente.</string>
   <string name="space_created_success">Segundo Espaço criado com sucesso</string>
+  <string name="agree">Concordar</string>
+  <string name="disagree">"Eu discordo"</string>
+  <string name="net_work_notice">O controle dos pais deve se conectar à Internet e acessar sua localização para funcionar corretamente. Essas permissões são necessárias para enviar informações sobre o nível da bateria, o número de etapas e a localização nos dispositivos monitorados. Permitir?</string>
+  <string name="remove_button">Remova e reinicie</string>
+  <string name="remove_button_time">Remova e reinicie(%ds)</string>
+  <string name="stop_xspace_alert_content">"Você excluiu todos os aplicativos duplos. Excluir contas de aplicativos duplos e dados do aplicativo também? Depois disso, você terá que criar aplicativos duplos novamente quando precisar deles."</string>
+  <string name="stop_xspace_alert_title">Excluindo duas contas de aplicativo</string>
+  <string name="use_xiaoai_open">Acordar usando o assistente de voz</string>
 </resources>

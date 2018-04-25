@@ -1271,4 +1271,5 @@
   <string name="lock_to_app_description_accessible">A tela fixada bloqueia sua tela em uma única visualização.\n\nPara desafixar a tela, pressione e segure o botão Início e Liga/Desliga ao mesmo tempo.</string>
   <string name="usb_cd_installer_notification_title">Conectado como um instalador</string>
   <string name="permission">Permissão</string>
+  <string name="move_button_text">Mudar</string>
 </resources>

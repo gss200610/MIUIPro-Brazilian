@@ -216,4 +216,6 @@
   <string name="wifi_name">Nome do Wi-Fi:</string>
   <string name="wifi_psw">Senha:</string>
   <string name="wifi_state">Status do Wi-Fi</string>
+  <string name="HIPS_Perm_SystemAlert">Exibir janela pop-up</string>
+  <string name="HIPS_Perm_show_when_locked">Mostrar na tela de bloqueio</string>
 </resources>

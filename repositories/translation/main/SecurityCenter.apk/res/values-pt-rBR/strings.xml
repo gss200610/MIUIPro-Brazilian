@@ -2064,4 +2064,25 @@
   <string name="xunyou_net_booster_detail">Use os serviços de otimização do Xunyou para seus jogos</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
   <string name="xunyou_server_expired">A sessão expirou.</string>
+  <string name="exit_dialog_garbage_clean_message">A quantidade de lixo no seu dispositivo é maior que %s. Limpar o lixo?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
+  <string name="exit_dialog_garbage_clean_title">Limpar o lixoh</string>
+  <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento no seu dispositivo está ocupado. Libere espaço desinstalando os aplicativos que você nunca usa.</string>
+  <string name="exit_dialog_release_storage_positive_button">Libere espaço</string>
+  <string name="exit_dialog_release_storage_title">Libere espaço</string>
+  <string name="exit_dialog_scan_message">"A pontuação de desempenho do seu dispositivo é inferior a 75 pontos. Otimize agora?"</string>
+  <string name="exit_dialog_scan_positive_button">Otimizar</string>
+  <string name="exit_dialog_scan_title">Otimizar o desempenho</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;Ajustar calibração SMS template&lt;/u&gt;</string>
+  <string name="dialog_roaming_warning_checkbox">"Não mostrar de novo"</string>
+  <string name="dialog_roaming_warning_message">A operadora cobrará uma taxa depois que você ativar o roaming de dados internacionais. Ligue mesmo assim?</string>
+  <string name="dialog_roaming_warning_ok">Ligar</string>
+  <string name="menu_setting_traffic">Configurações manuais</string>
+  <string name="sms_detail_correct_success_text">"Aqui estão as estatísticas de uso de dados da calibração anterior (%1$s):"</string>
+  <string name="tc_cmd_invalid">O modelo é inválido</string>
+  <string name="tc_get_cmd_error">"Não foi possível obter o modelo"</string>
+  <string name="tc_parse_error">"Não foi possível analisar o SMS"</string>
+  <string name="tc_receive_timeout">Calibração expirou</string>
+  <string name="tc_send_sms_error">"Não foi possível enviar SMS"</string>
+  <string name="tc_web_correct_error">"Não foi possível calibrar"</string>
 </resources>

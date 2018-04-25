@@ -68,4 +68,15 @@
   <string name="stop_record_while_locking">Bloquear tela para parar</string>
   <string name="stop_record_while_locking_summary">Parar gravação e salvar vídeo quando a tela for bloqueada</string>
   <string name="stop_recording">Parar gravação</string>
+  <string name="cannot_change_frames">A taxa de quadros só pode ser definida para gravações de quadros fixos.</string>
+  <string name="close_screen_record">Parada de gravação</string>
+  <string name="fixed_frame_rate">Taxa de quadros fixos</string>
+  <string name="fixed_frame_rate_summary">Gravar um vídeo de quadro fixo melhora a reprodução em plataformas de redes sociais e reduz a vida útil da bateria.</string>
+  <string name="is_checked">Selecionado</string>
+  <string name="is_go_home">Retornar para gravação de tela</string>
+  <string name="is_go_home_summary">"Volte para a tela principal do gravador"</string>
+  <string name="settings">Configurações</string>
+  <string name="storage_location">O repositório</string>
+  <string name="storage_location_summary">Selecione a opção de salvamento desejada</string>
+  <string name="unchecked">Não selecionado</string>
 </resources>

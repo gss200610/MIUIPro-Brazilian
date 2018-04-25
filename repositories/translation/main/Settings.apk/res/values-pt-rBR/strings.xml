@@ -5034,4 +5034,17 @@
   <string name="wifi_automatically_manage_summary">Permitir que o Assistente Wi-Fi gerencie sua conexão</string>
   <string name="wifi_assistant_setting_title">Assistente de Wi-Fi</string>
   <string name="wifi_assistant_setting_summary">Assistente de Wi-Fi do Google</string>
+  <string name="mqs_privacy_automatically_upload">Será baixado automaticamente da próxima vez</string>
+  <string name="mqs_privacy_dialog_cancel">Cancelar</string>
+  <string name="mqs_privacy_dialog_confirm">Baixar</string>
+  <string name="mqs_privacy_dialog_content">Baixe revistas para nos ajudar a encontrar e resolver este problema? Os registros podem conter suas informações pessoais, incluindo suas informações de localização.</string>
+  <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Para usar os recursos básicos deste serviço, você deve concordar que a Xiaomi irá coletar, processar e usar seus dados pessoais. Confira nossa Política de Privacidade para saber como coletamos e processamos suas informações pessoais. Ao escolher "Aceitar", você está familiarizado com o nosso &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Політика конфіденційності&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Користувацька угода&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
+  <string name="miui_touch_filtered_warning">Se um aplicativo estiver bloqueando uma caixa de diálogo de permissões, arraste o item sobreposto ou feche o aplicativo.</string>
+  <string name="wireless_connected">Conectado</string>
+  <string name="close_optimization_message">Layout de texto, contas e outras partes fora MIUI podem ser afetadas depois que você desativar esse recurso.</string>
+  <string name="close_optimization_option">Desligar</string>
+  <string name="open_optimization_message">Ative a otimização para aproveitar uma interface do usuário mais rápida e suave.</string>
+  <string name="open_optimization_option">Ligar</string>
+  <string name="game_mode_settings">Modo de jogo</string>
 </resources>

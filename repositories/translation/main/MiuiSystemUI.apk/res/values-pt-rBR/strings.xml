@@ -1172,4 +1172,10 @@
   <string name="high_temp_title">O telefone está aquecendo</string>
   <string name="high_temp_notif_message">Alguns recursos estarão limitados até que o telefone resfrie</string>
   <string name="high_temp_dialog_message">Seu telefone tentará se resfriar automaticamente. Você ainda pode usar seu telefone, mas ele poderá executar tarefas mais lentamente.\n\nAssim que o telefone tiver resfriado, ele voltará a funcionar normalmente.</string>
+  <string name="enter_special_mode_message">Depois de reiniciar o programa, o conteúdo do programa será distribuído para a área superior da barra de status. Se houver exceções, como congestionamento de conteúdo e pressionamentos de teclas incorretos, você poderá clicar novamente para restaurar o modo padrão.</string>
+  <string name="enter_special_mode_title">Reinicie o aplicativo e expanda o espaço da tela</string>
+  <string name="exit_special_mode_message">Depois de reiniciar o programa, a área do programa será restaurada para o modo padrão.</string>
+  <string name="exit_special_mode_title">Reinicie o programa e restaure o espaço de exibição</string>
+  <string name="special_mode_cancel">Cancelar</string>
+  <string name="special_mode_ok">Reiniciar</string>
 </resources>

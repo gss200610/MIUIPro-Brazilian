@@ -140,4 +140,10 @@
   <string name="face_unlock_reenter_title">Grave seus dados faciais novamente.</string>
   <string name="face_unlock_reenter_content">O algoritmo do desbloqueio facial está sendo atualizado. Grave seus dados faciais novamente.</string>
   <string name="keyguard_left_view_lock_wallpaper">Carrosel de Planos de fundo</string>
+  <string name="change_to_ac_charging">Comutado para carregamento com fio</string>
+  <string name="reset_device_detail_tip">Verifique se a posição do seu dispositivo na base de carregamento está correta</string>
+  <string name="reset_device_tip">O carregamento é lento. Ajuste o seu dispositivo.</string>
+  <string name="wireless_charge_dialog_cancel">Entendi</string>
+  <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
+  <string name="wireless_current_charge">Carregando</string>
 </resources>

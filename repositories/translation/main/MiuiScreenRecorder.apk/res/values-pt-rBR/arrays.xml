@@ -33,4 +33,9 @@
     <item>Microfone</item>
     <item>Alto-falante</item>
   </string-array>
+  <string-array name="screenrecorder_settings_storage_location">
+    <item>Memória interna</item>
+    <item>Memória externa</item>
+  </string-array>
+  
 </resources>

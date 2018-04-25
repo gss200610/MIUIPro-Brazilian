@@ -516,4 +516,13 @@
   <string name="auto_clean_time_three_day">A cada 3 dias</string>
   <string name="auto_clean_time_seven_day">A cada 7 dias</string>
   <string name="auto_clean_time_fifteen_day">A cada 15 dias</string>
+  <string name="guide_secure_dialog_message">A pontuação de otimização do seu dispositivo é inferior a 80 pontos. Otimize agora?</string>
+  <string name="guide_secure_dialog_negative">Cancelar</string>
+  <string name="guide_secure_dialog_positive">Otimizar</string>
+  <string name="guide_secure_dialog_title">Otimizar desempenho</string>
+  <string name="guide_virus_dialog_message">A verificação de aplicativos e pacotes de instalação protege seu dispositivo contra vírus e malwares. Analise seu dispositivo agora?</string>
+  <string name="guide_virus_dialog_negative">Cancelar</string>
+  <string name="guide_virus_dialog_positive">Scanear</string>
+  <string name="guide_virus_dialog_title">Scanear com Antivirus</string>
+  <string name="mainbtn_text_no_trash">Pular</string>
 </resources>

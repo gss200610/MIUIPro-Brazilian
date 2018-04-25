@@ -645,4 +645,18 @@
   <string name="group_verification_codes_summary">Agrupar códigos de verificação automaticamente</string>
   <string name="group_verification_codes_title">Agrupar códigos de verificação</string>
   <string name="yellowpage_recommend_msg">"Confira os recursos de mensagem do MIUI"</string>
+  <string name="button_emoji_creature">Animais emoji</string>
+  <string name="button_emoji_lifestyle">Vida emoji</string>
+  <string name="button_emoji_smiley">Emoji Face</string>
+  <string name="button_emoji_symbol">Emoji Simbólico</string>
+  <string name="button_emoji_text">Texto emoji</string>
+  <string name="button_fold">Colapso</string>
+  <string name="button_next_slide">Próximo</string>
+  <string name="button_pre_slide">Anterior</string>
+  <string name="button_resend_message">Submeter novamente</string>
+  <string name="button_unfold">Expandir</string>
+  <string name="dialog_message_fake_cell_detect_error">Corrigir esta informação? Para fazer isso, o MIUI precisa baixar um número de telefone (%1$s), conteúdo da mensagem e informações de localização do vizinho em seus servidores.</string>
+  <string name="dialog_title_fake_cell_detect_error">Corrigir</string>
+  <string name="draft">Umas abotoaduras</string>
+  <string name="fake_cell_alert_detect_error">"Não foi enviado de uma estação base falsa"</string>
 </resources>
