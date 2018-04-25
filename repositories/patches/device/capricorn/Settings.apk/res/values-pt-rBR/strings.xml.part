@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o leitor de impressões digitais atrás do telefone</string>
+    <string name="add_front_fingerprint_instruction_msg">O sensor de impressões digitais está localizado na parte traseira</string>
+</resources>

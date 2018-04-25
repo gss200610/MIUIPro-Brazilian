@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="comment_count">
+    <item quantity="other">%d comentários</item>
+    <item quantity="one">%d comentário</item>
+  </plurals>
+  <plurals name="comment_sub_count">
+    <item quantity="other">%d respostas</item>
+    <item quantity="one">%d resposta</item>
+  </plurals>
+  <plurals name="comment_view_all_comment">
+    <item quantity="other">Visualizar todos %d comentários</item>
+    <item quantity="one">Visualizar %d comentário</item>
+  </plurals>
+  <plurals name="downloading_task_num">
+    <item quantity="other">%d arquivos</item>
+    <item quantity="one">%d arquivo</item>
+  </plurals>
+  <plurals name="favor_short_selected_counts">
+    <item quantity="other">Selecionado %1$s itens</item>
+    <item quantity="one">Selecionado %1$s item</item>
+  </plurals>
+  <plurals name="finish_item_all_counts">
+    <item quantity="other">%1$s videos</item>
+    <item quantity="one">%1$s video</item>
+  </plurals>
+  <plurals name="notification_sub_title">
+    <item quantity="other">Baixado %d arquivos com sucesso</item>
+    <item quantity="one">Baixado %d arquivo com sucesso</item>
+  </plurals>
+  <plurals name="offline_num">
+    <item quantity="other">%d arquivos</item>
+    <item quantity="one">%d arquivo</item>
+  </plurals>
+  <plurals name="offline_num_title">
+    <item quantity="other">(%d episódios)</item>
+    <item quantity="one">(%d episódio)</item>
+  </plurals>
+  <plurals name="subtitle_offset_advance_times">
+    <item quantity="other">Legendas movidas %.1f segundos para frente</item>
+    <item quantity="one">Legendas movidas %.1f segundo para frente</item>
+  </plurals>
+  <plurals name="subtitle_offset_delay_times">
+    <item quantity="other">Legendas atrasadas por %.1f segundos</item>
+    <item quantity="one">Legendas atrasadas por %.1f segundo</item>
+  </plurals>
+  <plurals name="subtitle_onlinesub_size_float_kb">
+    <item quantity="other">Tamanho: %.2fKB</item>
+    <item quantity="one">Tamanho: %.2fKB</item>
+  </plurals>
+  <plurals name="updated_already">
+    <item quantity="other">Atualizado %d itens</item>
+    <item quantity="one">Atualizado %d item</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d Videos em cache</item>
+    <item quantity="one">%d Videos em cache</item>
+  </plurals>
+  <plurals name="v_video_count">
+    <item quantity="other">%d vídeos</item>
+    <item quantity="one">%d vídeo</item>
+  </plurals>
+  <plurals name="video_pre_play_tip">
+    <item quantity="other">%1$d-minute a pré-visualização está disponível. Para assistir o vídeo completo, &lt;Data&gt;&lt;font color=#ffa201&gt;buy it now&lt;/font&gt;&lt;/Data&gt;.</item>
+    <item quantity="one">%1$d-minute a pré-visualização está disponível. Para assistir o vídeo completo, &lt;Data&gt;&lt;font color=#ffa201&gt;buy it now&lt;/font&gt;&lt;/Data&gt;.</item>
+  </plurals>
+</resources>

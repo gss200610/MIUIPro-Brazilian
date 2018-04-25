@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="platform_unavailable_qq">Instalar VK Kate Pro</string>
+    <string name="platform_unavailable_qzone">Instalar Telegram</string>
+    <string name="platform_unavailable_weibo">Instalar WhatsApp</string>
+    <string name="cat_1">Viagens</string>
+    <string name="cat_2">Ilustrações</string>
+    <string name="cat_3">Casa</string>
+    <string name="cat_4">Esportes</string>
+    <string name="cat_5">Cabeçalhos</string>
+    <string name="cat_6">Entretenimento</string>
+    <string name="cat_7">Carros</string>
+    <string name="cat_8">Literatura</string>
+    <string name="cat_9">Moda</string>
+    <string name="cat_10">Vida</string>
+    <string name="cat_11">Tecnologias</string>
+    <string name="cat_12">Artes</string>
+    <string name="cat_13">Cozinha</string>
+    <string name="cat_14">Estilo</string>
+    <string name="cat_15">Atores</string>
+    <string name="cat_16">Sexual</string>
+    <string name="cat_17">Filmes</string>
+	<string name="cat_18">Animais</string>
+</resources>

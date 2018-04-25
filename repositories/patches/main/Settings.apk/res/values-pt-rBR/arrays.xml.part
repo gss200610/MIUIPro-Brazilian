@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="launcher_gesture_entries"> 
+        <item>Desligue a tela</item> 
+        <item>Menu de energia</item> 
+        <item>Apps recentes</item> 
+        <item>Telefone</item> 
+        <item>Modo de Som: Som / Vibração</item> 
+        <item>Painel de notificação</item> 
+        <item>Mudar de Wi-Fi</item> 
+        <item>Mudar Bluetooth</item> 
+        <item>Mudar dados móveis</item> 
+        <item>Limpar memória</item> 
+        <item>Executando o aplicativo</item> 
+        <item>Desabilitar</item> 
+    </string-array> 
+    <string-array name="smart_mobiledata_entries"> 
+        <item>Não mudar</item> 
+        <item>Apenas 2G</item> 
+        <item>Apenas 3G</item> 
+        <item>Apenas 4G</item> 
+        <item>De preferência 3G</item> 
+        <item>De preferência 4G</item> 
+        <item>2G/3G (GSM/WCDMA)</item> 
+        <item>4G/3G (LTE/WCDMA)</item> 
+        <item>2G/3G/4G (GSM/WCDMA/LTE)</item> 
+    </string-array> 
+  	<string-array name="timer_entries"> 
+        <item>Não desconectar</item> 
+        <item>Em um segundo</item> 
+        <item>Em um minuto</item> 
+        <item>Em 5 minutos</item> 
+        <item>Em 10 minutos</item> 
+        <item>Em 20 minutos</item> 
+        <item>Em 30 minutos</item> 
+        <item>Em uma houra</item> 
+    </string-array> 
+	<string-array name="battery_indicator_style_entries"> 
+        <item>Grafico</item> 
+        <item>Porcentagem e Gráfica</item> 
+        <item>Barra superior</item> 
+        <item>Porcentagem apenas</item> 
+        <item>Desligado</item> 
+    </string-array> 
+	<string-array name="ios_toggle_entries"> 
+        <item>Padrão</item> 
+        <item>Estilo IOS</item> 
+		<item>Novo estilo</item>
+        <item>Estilo AOSP</item>
+    </string-array> 
+    <string-array name="text_bat_color_entries">
+        <item>Padrão</item>
+        <item>Gradiente</item>
+        <item>Cor personalizada</item>
+    </string-array>
+	<string-array name="sim_select_entries"> 
+        <item>Sim 1</item> 
+        <item>Sim 2</item> 
+		<item>Sim 1 / Sim 2</item> 
+    </string-array> 
+	<string-array name="toggles_line_entries"> 
+        <item>Uma-linha</item> 
+        <item>Todas as linhas</item> 
+    </string-array> 
+	<string-array name="smart_timer_entries">
+        <item>Do not change</item>
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+    </string-array>
+	<string-array name="toast_animation_entries"> 
+        <item>Nenhum</item> 
+        <item>Padrão</item> 
+        <item>Aparência suave / atenuação</item> 
+        <item>Partida para a direita e volta</item> 
+        <item>Partida à esquerda e de volta</item> 
+        <item>Partida da direita para a esquerda</item> 
+        <item>Partida da esquerda para a direita</item> 
+        <item>Animação Xylon</item> 
+        <item>Animação Toko</item> 
+        <item>Rotação</item> 
+        <item>Animação Honami</item> 
+        <item>Aparência rápida</item> 
+        <item>Aparência lenta</item> 
+        <item>Partindo do centro</item> 
+        <item>Partindo de baixo</item> 
+        <item>Direito transparente</item> 
+        <item>Reversão direita / esquerda</item> 
+        <item>Vire com um golpe de baixo</item> 
+        <item>Um golpe do centro</item> 
+        <item>Virando de baixo</item> 
+        <item>Do centro para o centro</item> 
+        <item>Personalizado</item> 
+    </string-array> 
+	<string-array name="gesture_anywhere_position_entries"> 
+        <item>Esquerda</item> 
+        <item>Direita</item> 
+    </string-array> 
+	<string-array name="listview_animation_entries"> 
+        <item>Padrão</item> 
+        <item>Onda (esquerda)</item> 
+        <item>Onda (direita)</item> 
+        <item>Alpha</item> 
+        <item>Escala</item> 
+        <item>Pilha (topo)</item> 
+        <item>Pilha (abaixo)</item> 
+        <item>Desdobrar</item> 
+        <item>Dobrar</item> 
+        <item>Traduzir (à esquerda)</item> 
+        <item>Traduzir (à direita)</item> 
+    </string-array> 
+    <string-array name="listview_interpolator_entries"> 
+        <item>Padrão</item> 
+        <item>Acelerar</item> 
+        <item>Desacelerar</item> 
+        <item>Acelerar desacelerar</item> 
+        <item>Antecipar</item> 
+        <item>Superação</item> 
+        <item>Antecipar superação</item> 
+        <item>Pulo</item> 
+        <item>Cíclico</item> 
+        <item>Linear</item> 
+    </string-array> 
+	<string-array name="crt_animation_entries"> 
+        <item>Desativado</item> 
+        <item>Lentamente</item> 
+        <item>Muito devagar</item> 
+        <item>Lento</item> 
+        <item>Geralmente</item> 
+        <item>Rápido</item> 
+        <item>Muito rápido</item> 
+        <item>Super rápido</item> 
+    </string-array> 
+	<string-array name="crt_animation_framing_entries"> 
+        <item>Permanentemente</item> 
+        <item>50 fps</item> 
+        <item>25 fps</item> 
+        <item>10 fps</item> 
+        <item>5 fps</item> 
+    </string-array> 
+	<string-array name="crt_fade_entries"> 
+        <item>Padrão</item> 
+        <item>Branqueamento</item> 
+    </string-array> 
+	<string-array name="smart_timer_sleepon_entries">
+        <item>Não ativar</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+	<string-array name="low_battery_warning_entries"> 
+        <item>Mensagem e som</item> 
+        <item>Messagem apenas</item> 
+        <item>Som apenas</item> 
+        <item>Desativado</item> 
+    </string-array> 
+	<string-array name="battery_off_entries"> 
+        <item>Desativar LED</item> 
+        <item>LED ativo</item> 
+    </string-array> 
+	<string-array name="set_haptic_entries"> 
+        <item>Desativado</item> 
+        <item>Baixo</item> 
+        <item>Forte</item> 
+    </string-array>
+	<string-array name="mtp_default_entries">
+        <item>Sempre carregando</item>
+        <item>Sempre MTP</item>
+        <item>MTP, se a tela não estiver bloqueada com uma senha</item> 
+    </string-array> 
+	<string-array name="volbtn_action_entries"> 
+        <item>Próximo</item> 
+        <item>Pausa</item> 
+        <item>Play</item> 
+        <item>Play / Pausa</item> 
+        <item>Anterior</item> 
+    </string-array> 
+	<string-array name="policy_control_entries"> 
+        <item>Imersivo Off (Padrão)</item> 
+        <item>Imersivo On (Tela cheia)</item> 
+        <item>Ocultar barra de status</item> 
+        <item>Ocultar navegação</item> 
+    </string-array> 
+	<string-array name="ts_keycode_entries"> 
+        <item>Início</item> 
+        <item>Recente</item> 
+    </string-array> 
+    <string-array name="ts_limit_entries"> 
+        <item>Dois</item> 
+        <item>Três</item> 
+        <item>Cinco</item> 
+        <item>Sete</item> 
+        <item>Dez</item> 
+        <item>Sem limites</item> 
+    </string-array> 
+    <string-array name="ts_direct_entries"> 
+        <item>Voltar</item> 
+        <item>Avançar</item> 
+    </string-array> 
+	<string-array name="def_audio_entries"> 
+        <item>Ringtone</item> 
+        <item>Multimedia</item> 
+        <item>Notificações</item> 
+    </string-array> 
+    <string-array name="folder_toggle_entries"> 
+        <item>3 colunas</item> 
+        <item>4 colunas</item> 
+    </string-array> 
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="nonui_mode_config_description">Toda vez que o MIUI detecta que você não está usando o dispositivo, o MIUI desliga a luz indicadora, o scanner de impressões digitais e os controles de toque, e não ativa a tela de notificação..</string>
+   <string name="nonui_mode_config_title">Modo não interativo</string>
+</resources>

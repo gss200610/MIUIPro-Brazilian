@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="press_color_to_apply">Clique na cor para selecionar</string> 
+    <string name="auto_app_launch">Aplicação para iniciar</string>
+    <string name="cat_1">A limpeza está em andamento...</string>
+	<string name="cat_2">Bluetooth desativado</string>
+	<string name="cat_3">Bluetooth ativado</string>
+	<string name="cat_4">Dados móveis estão desativados</string>
+	<string name="cat_5">Os dados móveis estão ativados</string>
+	<string name="cat_6">Wi-Fi ativado</string>
+	<string name="cat_7">Wi-Fi desativado</string>
+</resources>

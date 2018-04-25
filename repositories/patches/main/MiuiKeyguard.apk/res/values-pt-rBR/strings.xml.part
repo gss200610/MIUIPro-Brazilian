@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_left_remotecentral">Mensagens</string>
+	<string name="keyguard_left_smarthome">Contatos</string>
+	<string name="keyguard_left_buscard">Despertador</string>
+    <string name="keyguard_left_bankcard">Calculadora</string>
+	<string name="open_remote_center_hint_text">Deslize para a direita para executar programas adicionais</string>
+</resources>

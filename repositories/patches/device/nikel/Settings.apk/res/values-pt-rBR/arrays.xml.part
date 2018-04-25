@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="smart_mobiledata_entries"> 
+        <item>Não mude</item> 
+        <item>Apenas 2G</item> 
+        <item>Apenas 3G</item> 
+        <item>Apenas 4G</item> 
+        <item>Preferencialmente 3G</item> 
+        <item>Preferencialmente 4G</item> 
+        <item>4G/3G (LTE/WCDMA)</item> 
+    </string-array> 
+</resources>

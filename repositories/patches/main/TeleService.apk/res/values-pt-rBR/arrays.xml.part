@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Apenas chamada recebida</item> 
+        <item>Depois de atender a chamada</item> 
+        <item>Sempre com a entrada</item> 
+        <item>Sempre com saída</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Nada</item> 
+        <item>Abrir discador</item> 
+        <item>Sair par desktop</item> 
+        <item>Sair e bloquear o telefone</item> 
+    </string-array> 
+    <string-array name="incall_small_background_entries"> 
+	    <item>Padrão</item>
+        <item>Agente</item> 
+        <item>Coelho</item> 
+		<item>Mascara</item> 
+		<item>Loog MI</item> 
+		<item>Desconhecido</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+	    <item>Padrão</item>
+        <item>Grito</item> 
+        <item>Mãos ensanguentadas</item> 
+        <item>O homem no capô</item> 
+        <item>assassino de aluguel</item> 
+        <item>A mão atrás do vidro</item> 
+    </string-array> 
+   	<string-array name="set_samplingrate_entries">
+        <item>Padrão (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Padrão (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+    <string-array name="show_search_entries"> 
+        <item>Mostrar</item> 
+        <item>Mostrar nos contatos</item> 
+        <item>Mostrar no discador</item> 
+        <item>Esconder</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Esconder</item> 
+        <item>Mostrar</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Aceitar chamada</item> 
+        <item>Rejeitar chamada</item> 
+        <item>Som desligado</item> 
+        <item>Desativado</item> 
+    </string-array> 
+</resources>
