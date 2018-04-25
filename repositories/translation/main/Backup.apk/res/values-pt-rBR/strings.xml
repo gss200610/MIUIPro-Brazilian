@@ -497,4 +497,19 @@ e faça o login como %2$s.</string>
   <string name="alert_message_restore_from_miasist">O Mi PC Suite está solicitando permissão para restaurar itens no seu telefone. Permitir?</string>
   <string name="alert_button_deny">Negar</string>
   <string name="alert_button_agree_and_continue">Permitir</string>
+  <string name="button_clean_garbage">Libere espaço</string>
+  <string name="button_got_it">OK</string>
+  <string name="button_quit">Sair</string>
+  <string name="err_bakfile_not_exist">"Arquivo de backup não existe."</string>
+  <string name="err_binder_died">App parado inesperadamente.</string>
+  <string name="err_pkg_not_exist">"Não foi possível encontrar o aplicativo."</string>
+  <string name="err_user_abort">Cancelado pelo usuário.</string>
+  <string name="trans_failed_details_page_title">Transferências sem sucesso</string>
+  <string name="trans_generate_qrcode_failed">"Não foi possível gerar o código QR. Tente novamente."</string>
+  <string name="trans_generating_qrcode">Gerando código QR…</string>
+  <string name="trans_old_phone_low_space_msg">"O Mi Mover precisa de algum espaço de armazenamento para empacotar os dados transferidos, mas parece que não há espaço suficiente disponível no dispositivo antigo. Libere espaço em \"Segurança\" ou transfira apenas itens importantes."</string>
+  <string name="trans_old_phone_low_space_title">Não há espaço de armazenamento suficiente</string>
+  <string name="trans_native_no_space">"Não há espaço de armazenamento suficiente no dispositivo antigo (%s disponível). Libere espaço de armazenamento ou transfira apenas itens importantes."</string>
+  <string name="trans_select_data_no_space">"Não há espaço de armazenamento suficiente no novo dispositivo (% s disponível). Libere espaço de armazenamento ou transfira apenas itens importantes."</string>
+  <string name="trans_time_spent">Tempo gasto: %s</string>
 </resources>
