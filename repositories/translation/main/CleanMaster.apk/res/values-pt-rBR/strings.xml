@@ -525,4 +525,12 @@
   <string name="guide_virus_dialog_positive">Scanear</string>
   <string name="guide_virus_dialog_title">Scanear com Antivirus</string>
   <string name="mainbtn_text_no_trash">Pular</string>
+  <string name="menu_open">Abrir</string>
+  <string name="tips_low_storage_dialog_cancel">Cancelar</string>
+  <string name="tips_low_storage_dialog_msg_qq">Tamanho do cache QQ atingiu 3 GB. Isso pode desacelerar seu dispositivo. Limpar o cache do QQ agora?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Você está usando 90% do seu espaço de armazenamento. Desinstale os aplicativos que você não usa."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">O tamanho do cache do WeChat atingiu 3 GB. Isso pode desacelerar seu dispositivo. Limpar o cache do WeChat agora?</string>
+  <string name="tips_low_storage_dialog_ok">Limpar</string>
+  <string name="tips_low_storage_dialog_ok_storage">Libere espaço</string>
+  <string name="tips_low_storage_dialog_title">Espaço de armazenamento baixo</string>
 </resources>

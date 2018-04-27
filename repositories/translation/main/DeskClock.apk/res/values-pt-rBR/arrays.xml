@@ -72,4 +72,16 @@
     <item>Soneca</item>
     <item>Dispensar</item>
   </string-array>
+   <string-array name="weather_tips_value">
+        <item>Reduzir atividades ao ar livre</item>
+        <item>As estradas são escorregadias</item>
+        <item>O tempo está tempestuoso, tenha cuidado.</item>
+        <item>"Está nevoeiro hoje. Dirija com responsabilidade."</item>
+        <item>O ar está poluído, use uma máscara.</item>
+        <item>Pegue um guarda-chuva quando você sair</item>
+        <item>Cuidado na estrada</item>
+        <item>"É uma saudação hoje, tenha cuidado."</item>
+        <item>Tempestade de areia está chegando, use uma máscara.</item>
+        <item>Tenha um bom dia!</item>
+    </string-array>
 </resources>
