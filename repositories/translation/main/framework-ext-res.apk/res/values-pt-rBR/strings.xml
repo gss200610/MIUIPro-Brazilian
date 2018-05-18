@@ -172,4 +172,5 @@
   <string name="switching_tv">Alternando\u2026</string>
   <string name="switch_desc_tv">Dois espaços. Um dispositivo.</string>
   <string name="switch_brand_desc_tv">Serviços de segurança fornecidos pela Spaces Mobile</string>
+  <string name="miui_forbid_poweroff_when_device_locked">"Não é possível desligar, o dispositivo está bloqueado."</string>
 </resources>

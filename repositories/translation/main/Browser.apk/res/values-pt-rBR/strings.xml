@@ -705,7 +705,7 @@
   <string name="same_folder_name_warning">Um grupo com o mesmo nome já existe</string>
   <string name="save_button_text">Salvar</string>
   <string name="save_dialog_title">Salvar</string>
-  <string name="save_file">Salvar arquivo %s</string>
+  <string name="save_file">Salvar arquivo</string>
   <string name="save_file_already_exist_alert_message">Um arquivo com o mesmo nome já existe, substituí-lo?</string>
   <string name="save_file_already_exist_alert_title">Substituir arquivo?</string>
   <string name="save_form_data_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
@@ -904,4 +904,16 @@
   <string name="week_picker_dialog_title">Definir semana</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.br</string>
   <string name="search_label">Navegador</string>
+  <string name="action_one_touch">Abrir notificações</string>
+  <string name="action_skip">pular</string> 
+  <string name="enter_infoflow_guide">Deslize para cima para ver as notícias</string>
+  <string name="hot_words_item_ads_mark">Publicidades</string>
+  <string name="info_flow_description">Canal de informação</string>
+  <string name="message_notice_push">Os pontos de acesso mais recentes não perdem mais!</string>
+  <string name="pref_navscreen_layoutstate_title">Gestão multi-janela</string>
+  <string name="refresh_description">Atualizar</string>
+  <string name="short_video_description">Canal de vídeo</string>
+  <string name="short_video_tip">Veja! Vídeo divertido</string>
+  <string name="suggestion_clear_record_message">Você confirma o registro de entrada vazio?</string>
+  <string name="title_notice_push">Aviso lembrando</string>
 </resources>

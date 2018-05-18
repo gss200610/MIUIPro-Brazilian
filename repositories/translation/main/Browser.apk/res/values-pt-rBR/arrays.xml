@@ -79,4 +79,8 @@
     <item>Chuva congelada</item>
     <item></item>
   </string-array>
+   <string-array name="pref_navscreen_layoutstate_choices">
+       <item>Visão vertical</item>
+       <item>Visão horizontal</item>
+   </string-array>
 </resources>
