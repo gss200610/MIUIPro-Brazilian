@@ -171,4 +171,6 @@
     <string name="hide_app">Configurações de rótulo</string>
     <string name="hide_app_title">Lista de aplicativos para ocultar</string>
 	<string name="search_bluetooth_enable">Bluetooth</string>
+    <string name="smart_mobile_title">Configurações de rede inteligentes</string> 
+    <string name="timer_setting">Configurações de temporizadores de conexão</string>	
 </resources>
