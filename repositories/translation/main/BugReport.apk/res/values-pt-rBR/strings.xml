@@ -309,4 +309,5 @@
   <string name="customer_service_complain">Reportar apoio ao cliente</string>
   <string name="customer_service_station">Locais de atendimento</string>
   <string name="select_system_app_tag">Selecione um problema</string>
+  <string name="toast_loading_app_id">Obtendo informações ...</string>
 </resources>

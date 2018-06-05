@@ -336,4 +336,5 @@
   <string name="stop_xspace_alert_content">"Você excluiu todos os aplicativos duplos. Excluir contas de aplicativos duplos e dados do aplicativo também? Depois disso, você terá que criar aplicativos duplos novamente quando precisar deles."</string>
   <string name="stop_xspace_alert_title">Excluindo duas contas de aplicativo</string>
   <string name="use_xiaoai_open">Acordar usando o assistente de voz</string>
+  <string name="this_function_can_not_use_in_second_space">Esta função só pode ser usada no primeiro espaço</string>
 </resources>

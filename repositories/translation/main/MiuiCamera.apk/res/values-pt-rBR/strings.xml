@@ -402,5 +402,5 @@
   <string name="toast_saving">Salvando fotos\u2026</string>
   <string name="cannot_connect_camera_volte_call">Videochamada em andamento, por favor tente mais tarde.</string>
   <string name="accessibility_ai_scene_off">A câmera AI está desligada</string>
-  <string name="accessibility_ai_scene_on">AI camera</string>
+  <string name="accessibility_ai_scene_on">AI camera está ligada</string>
 </resources>

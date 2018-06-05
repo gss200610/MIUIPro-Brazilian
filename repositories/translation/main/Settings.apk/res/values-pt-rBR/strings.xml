@@ -5047,4 +5047,6 @@
   <string name="open_optimization_message">Ative a otimização para aproveitar uma interface do usuário mais rápida e suave.</string>
   <string name="open_optimization_option">Ligar</string>
   <string name="game_mode_settings">Modo de jogo</string>
+  <string name="total_info_sub">e desligue a vibração</string>
+  <string name="total_info">O silêncio soa %1$ s exceto pelos os alarmes</string>
 </resources>
