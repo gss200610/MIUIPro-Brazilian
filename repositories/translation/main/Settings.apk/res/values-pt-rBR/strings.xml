@@ -4773,7 +4773,6 @@
   <string name="standard">Silencioso</string>
   <string name="standard_info">Chamadas e notificações serão silenciadas</string>
   <string name="total">Não perturbe</string>
-  <string name="total_info">Silenciar sons e desativar a vibração exceto para alarmes</string>
   <string name="rule_name">Nome</string>
   <string name="day_of_week">Dia da semana</string>
   <string name="silent_mode">Modo silencioso</string>
