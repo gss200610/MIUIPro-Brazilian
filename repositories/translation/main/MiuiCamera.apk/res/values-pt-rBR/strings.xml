@@ -403,4 +403,17 @@
   <string name="cannot_connect_camera_volte_call">Videochamada em andamento, por favor tente mais tarde.</string>
   <string name="accessibility_ai_scene_off">A câmera AI está desligada</string>
   <string name="accessibility_ai_scene_on">AI camera está ligada</string>
+  <string name="edit_chin">Queixo</string>
+  <string name="edit_lips">Lábios</string>
+  <string name="edit_neck">Pescoço</string>
+  <string name="edit_nose">Nariz</string>
+  <string name="edit_risorius">Risório</string>
+  <string name="edit_slim_nose">Nariz</string>
+  <string name="edit_smile">Sorria</string>
+  <string name="hibernate_hint">Toque na tela para acordar a câmera</string>
+  <string name="popup_tip_3d_beauty_intro_text">Beleza 3D</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Alta compatibilidade</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Alto desempenho</string>
+  <string name="pref_video_encoder_title">Codificador de vídeo</string>
 </resources>

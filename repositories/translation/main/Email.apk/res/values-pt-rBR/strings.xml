@@ -989,4 +989,19 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="quote_divider_iphone_fwd_en">Início da mensagem encaminhada:</string>
   <string name="request_permission_activity">Solicitação de permissão</string>
   <string name="search_title">E-mail unificado</string>
+  <string name="account_setup_failed_auth_required">Msgstr "Métodos de autenticação não são suportados pelo servidor."</string>
+  <string name="login_mail">Login para mail</string>
+  <string name="need_get_qq_mail">Requer correio QQ</string>
+  <string name="open_notification_kingagent">Abra o aviso de sepultamento</string>
+  <string name="optimization_suggestion">Proposta de otimização</string>
+  <string name="others_mail">Outros</string>
+  <string name="others_mail_des">(Mais de 60.000 cartas foram enviadas)</string>
+  <string name="qq_authorization_help_get">Me ajude a conseguir</string>
+  <string name="qq_authorization_know">Entendendo o código de autorização</string>
+  <string name="qq_authorization_tips">Não há mais prompts</string>
+  <string name="qq_verify_code">(Código de verificação QQ requerido)</string>
+  <string name="title_activity_about">Sobre</string>
+  <string name="verify_code">Código de verificação</string>
+  <string name="version_string">Versão: %s</string>
+  <string name="wps_title">WPS Mail</string>
 </resources>

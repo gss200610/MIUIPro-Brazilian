@@ -200,4 +200,5 @@
   <string name="incoming_circle_text_answer">Soltar</string>
   <string name="incoming_circle_text_message_p">Deslizar para cima</string>
   <string name="incoming_circle_text_message">Soltar</string>
+  <string name="conference_call_recorder_title">Teleconferência</string>
 </resources>

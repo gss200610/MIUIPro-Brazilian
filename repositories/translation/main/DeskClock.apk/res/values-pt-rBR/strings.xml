@@ -152,4 +152,7 @@
   <string name="loading_ringtone">Carregando toque\u2026</string>
   <string name="control_set_alarm">Definir alarme</string>
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
+  <string name="open_keep_screen">A tela permanecerá</string>
+  <string name="shut_down_keep_screen">"A tela não será ativada"</string>
+  <string name="worldclock_input_hint_text">Entre na cidade</string>
 </resources>
