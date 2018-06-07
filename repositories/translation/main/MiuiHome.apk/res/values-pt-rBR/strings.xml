@@ -312,4 +312,10 @@
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Pesquisar</string>
   <string name="widget_quick_function">Funções rápidas</string>
+  <string name="reset_description_first_time">Você pode restaurar o layout de %1$s dentro de 2 horas</string>
+  <string name="reset_description_others">Você pode restaurar o layout de %1$s</string>
+  <string name="icon_reorganize_channel">Organizar ícones</string>
+  <string name="notification_reset_title">Ícones organizados com sucesso</string>
+  <string name="reset_title">Restaurar</string>
+  <string name="reset_fail">"Não foi possível restaurar"</string>
 </resources>
