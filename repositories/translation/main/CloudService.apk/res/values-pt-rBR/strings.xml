@@ -227,7 +227,7 @@
   <string name="micloud_main_sync_pause">Sincronização em pausa</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Conecte o carregador e desligue a tela para sincronizar</string>
   <string name="micloud_main_detail">Ver detalhes</string>
-  <string name="micloud_main_network_abnormal">"Não é possível conectar-se à rede"</string>
+  <string name="micloud_main_network_abnormal">Verifique suas configurações de rede</string>
   <string name="micloud_main_sync_init">Obtendo informações</string>
   <string name="micloud_main_battery_low">Sem bateria suficiente para sincronizar</string>
   <string name="micloud_main_battery_message">Conecte o carregador para sincronizar</string>

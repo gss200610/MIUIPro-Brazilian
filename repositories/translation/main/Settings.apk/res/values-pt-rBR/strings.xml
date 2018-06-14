@@ -4640,7 +4640,9 @@
   <string name="bootloader_locked_answer_1">"Nós bloqueamos os dispositivos para garantir a sua segurança e a segurança de suas informações pessoais. Se você precisa do Modo Fastboot para atualizar o dispositivo, você pode desbloqueá-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Lembre-se: Você não será capaz de usar o \"Encontrar dispositivo\" após o telefone ser desbloqueado."</string>
   <string name="bootloader_locked_question_2">Eu entendo os riscos, mas ainda quero desbloquear meu dispositivo.</string>
-  <string name="bootloader_locked_answer_2">"Toque no botão abaixo para associar sua Conta Mi com este dispositivo. Então, acesse o website do MIUI para fazer o download da ferramenta de desbloqueio. Aqui está o endereço:"</string>
+  <string name="bootloader_locked_answer_2">"1. Verifique se você já inseriu um cartão SIM no seu dispositivo.
+2. Toque em "Adicionar conta" abaixo para associar sua conta Mi com este dispositivo.
+3. Baixe a ferramenta de desbloqueio do nosso site. Observe que você deve desbloquear dispositivos usando um computador. Baixe aqui:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
   <string name="bootloader_device_bind_already">Adicionado com sucesso. Sua Conta Mi está associada a este dispositivo.</string>
   <string name="bootloader_device_bind_no_account">Faça o login em sua Conta Mi primeiro</string>
@@ -5047,4 +5049,21 @@
   <string name="open_optimization_message">Ative a otimização para aproveitar uma interface do usuário mais rápida e suave.</string>
   <string name="open_optimization_option">Ligar</string>
   <string name="game_mode_settings">Modo de jogo</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">"Não é possível adicionar mais contas a este cartão SIM."</string>
+  <string name="bootloader_device_bind_no_sim">Insira o cartão SIM e tente novamente.</string>
+  <string name="bootloader_device_bind_server_code">"Não foi possível adicionar. Código de erro:"</string>
+  <string name="bootloader_device_bind_sim_invalid">O cartão SIM é inválido. Substitua e tente novamente.</string>
+  <string name="bootloader_status_privacy_dialog_message">Desbloqueio Mi precisa de acesso à sua conta Mi, ID da CPU, IMEI, IMSI para funcionar normalmente. Nós coletamos, usamos e processamos seus dados de acordo com nossas %s. Concorda?</string>
+  <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
+  <string name="bootloader_status_privacy_dialog_title">Permissões necessárias</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Políticas de privacidade</string>
+  <string name="bootloader_status_privacy_dialog_yes">Concordo</string>
+  <string name="device_miui_version_for_POCO">MIUI versão (para POCO)</string>
+  <string name="taplus_title">Taplus</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Esta rede Wi-Fi não tem acesso à internet. Use dados móveis em vez disso?</string>
+  <string name="miui_lab_ai_cloud_closed">"O pré-carregamento do AI ainda não está disponível."</string>
+  <string name="miui_lab_ai_preload_desc">O pré-carregamento do AI aumenta a velocidade de inicialização do aplicativo</string>
+  <string name="miui_lab_ai_preload_title">Pré-carregamento de AI</string>
+  <string name="super_resolution_reboot_tips">Esse recurso permite fazer imagens borradas no WeChat e no toutiao crisper. Inicie os aplicativos novamente depois de ativar esse recurso.</string>
+  <string name="wifi_click_login_wlan">Requer login / autorização</string>
 </resources>

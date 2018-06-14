@@ -141,4 +141,9 @@
   <string name="wednesday_shortest">Q</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Ontem</string>
+  <string name="cancel_description">Cancelar</string>
+  <string name="confirm_description">Confirmar</string>
+  <string name="delete_description">Apagar</string>
+  <string name="deselect_all_description">Remover seleção</string>
+  <string name="select_all_description">Selecionar tudo</string>
 </resources>

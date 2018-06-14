@@ -1192,4 +1192,16 @@
   <string name="refocus_title">Desfoque</string>
   <string name="refocus_type_static">Nível de desfoque</string>
   <string name="refocus_type_video">Trilhas leves</string>
+  <string name="checked">Selecionado</string>
+  <string name="checked_something">Selecionado %s</string>
+  <string name="enter_choice_mode">Diálogo de compartilhamento inserido</string>
+  <string name="exit_choice_mode">Caixa de diálogo Left Share</string>
+  <string name="feature_guidance_photo_effects">efeitos de fotos</string>
+  <string name="image_with_time">Foto tirada em %s</string>
+  <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
+  <string name="storage_description_usb">armazenamento USB</string>
+  <string name="unchecked">Desmarcado</string>
+  <string name="unchecked_something">Desmarcado %s</string>
+  <string name="video_with_time">Video taken on %s</string>
+  <string name="video_with_time_and_location">Vídeo tirado em %1$s. Localização: %2$s.</string>
 </resources>

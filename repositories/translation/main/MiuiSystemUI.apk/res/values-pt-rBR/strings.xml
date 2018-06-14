@@ -1178,4 +1178,7 @@
   <string name="exit_special_mode_title">Reinicie o programa e restaure o espaço de exibição</string>
   <string name="special_mode_cancel">Cancelar</string>
   <string name="special_mode_ok">Reiniciar</string>
+  <string name="notification_channel_battery">Bateria</string>
+  <string name="notification_channel_usb">USB</string>
+  <string name="quick_settings_gps_label">GPS</string>  
 </resources>

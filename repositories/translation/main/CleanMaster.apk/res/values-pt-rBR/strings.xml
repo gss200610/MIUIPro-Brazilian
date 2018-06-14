@@ -188,7 +188,7 @@
   <string name="hints_quick_scanning">Verificando\u2026</string>
   <string name="hints_quick_cleanuping">Otimizando\u2026</string>
   <string name="hints_deepclean_scanning">Verificando %s</string>
-  <string name="cache_title_system_cache">Cache do sistema</string>
+  <string name="cache_title_system_cache">Cache de dados</string>
   <string name="hints_storage_free">Livre</string>
   <string name="hints_storage_free_size">Total de %1$s, %2$s disponível</string>
   <string name="apps_sort_type_title">Ordenar</string>

@@ -152,4 +152,11 @@
   <string name="loading_ringtone">Carregando toque\u2026</string>
   <string name="control_set_alarm">Definir alarme</string>
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
+  <string name="dialog_message_not_remind">"Não mostrar denovo"</string>
+  <string name="module_download_cancel">Não obrigado</string>
+  <string name="module_download_data_msg">"O relógio precisa se conectar à internet para baixar arquivos de áudio (20MB) para ruídos ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?"</string>
+  <string name="module_download_data_msg_golbal">"O relógio precisa baixar arquivos de áudio (20MB) para ruídos ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?"</string>
+  <string name="module_download_msg">O relógio precisa se conectar à internet para baixar arquivos de áudio para ruídos ambientais e alarmes inteligentes. Permitir?</string>
+  <string name="module_download_msg_golbal">O relógio precisa baixar arquivos de áudio para ruídos ambientais e alarmes inteligentes. Permitir?</string>
+  <string name="module_download_ok">Permitir</string>
 </resources>

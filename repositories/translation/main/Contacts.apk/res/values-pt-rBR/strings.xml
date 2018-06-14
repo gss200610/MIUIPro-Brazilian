@@ -1164,4 +1164,5 @@
   <string name="zero_items_selected">Selecionar itens</string>
   <string name="yellowpage_mi_family">Mi Family</string>
   <string name="no_setting_menu">Não há opções de menu disponíveis</string>
+  <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico de chamadas</string>
 </resources>

@@ -443,4 +443,14 @@
   <string name="sim_changed_notification_msg">Toque para atualizar seu número de telefone de recuperação e mantenha sua conta mais segura.</string>
   <string name="recycle_phone_notification_title">Risco de segurança da Conta Mi</string>
   <string name="recycle_phone_notification_msg">Parece que seu número de telefone foi reciclado. Toque para atualizar.</string>
+  <string name="account_mibi_charge">Cobrança de créditos</string>
+  <string name="passport_Resend">Reenviar</string>
+  <string name="passport_btn_change_account">Mudar de conta</string>
+  <string name="passport_error_empty_voice_code">Digite o captcha</string>
+  <string name="passport_input_voice_hint">Digite o código de voz</string>
+  <string name="passport_license_info_collapse">Recolher</string>
+  <string name="passport_license_info_open">Detahes</string>
+  <string name="passport_new_user_register">Criar uma conta</string>
+  <string name="passport_register_using_other_ways">Outras formas de registro</string>
+  <string name="passport_wrong_voice">O código que você digitou está incorreto</string>
 </resources>

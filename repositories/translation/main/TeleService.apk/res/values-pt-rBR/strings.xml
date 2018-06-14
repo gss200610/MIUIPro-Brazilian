@@ -1496,4 +1496,10 @@ Funções relacionadas ao PIN2 serão bloqueadas após outra tentativa incorreta
   <string name="preferred_network_mode_wcdma_only_choice">Apenas WCDMA</string>
   <string name="preferred_network_mode_gsm_only_choice">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferencial</string>
+   <string name="wfcmode_mobile_preferred">Preferência celular</string>
+   <string name="wfcmode_wifi_only">WLAN apenas</string>
+   <string name="wfcmode_wifi_preferred">WLAN preferência</string>
+   <string name="wifi_call_setting">WLAN chamadas</string>
+   <string name="wificall_switch_summary">Seu dispositivo pode alternar entre WLAN e VoLTE quando a conexão é ruim</string>
+   <string name="wificall_switch_title">Fazer chamadas usando WLAN</string>
 </resources>

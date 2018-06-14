@@ -41,4 +41,9 @@
     <item quantity="other">%s outras notificações.</item>
     <item quantity="one">%s outra notificação.</item>
   </plurals>
+  <plurals name="notification_num_channels">
+    <item quantity="other">%d categorias de notificação</item>
+    <item quantity="one">%d categoria de notificação</item>
+  </plurals>
+  
 </resources>

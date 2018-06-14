@@ -93,4 +93,12 @@
     <item quantity="other">%d apps não foram usados por um bom tempo, dê uma olhada.</item>
     <item quantity="one">%d app não foi usado por um bom tempo, dê uma olhada.</item>
   </plurals>
+  <plurals name="clean_long_msg_p1">
+    <item quantity="other">"Limpeza %1$d arquivos,%2$d finalizado"</item>
+    <item quantity="one">"Limpeza %1$d arquivo,%2$d finalizado"</item>
+  </plurals>
+  <plurals name="clean_long_msg_p2">
+    <item quantity="other">%1$d%% itens / segundo permaneceu tempo:%2$s</item>
+    <item quantity="one">%1$d%% itens / segundo permaneceu tempo:%2$s</item>
+  </plurals>   
 </resources>

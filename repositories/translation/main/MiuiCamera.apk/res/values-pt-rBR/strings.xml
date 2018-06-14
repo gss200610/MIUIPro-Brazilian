@@ -401,4 +401,10 @@
   <string name="simple_mode_button_text_raw">Desligar RAW</string>
   <string name="toast_saving">Salvando fotos\u2026</string>
   <string name="cannot_connect_camera_volte_call">Videochamada em andamento, por favor tente mais tarde.</string>
+  <string name="beauty_fragment_tab_name_3d_beauty">Belaza</string>
+  <string name="beauty_fragment_tab_name_3d_remodeling">Remodelação</string>
+  <string name="lens_dirty_detected_content">"Parece que a lente da sua câmera está suja. Limpe a lente para um melhor efeito. "</string>
+  <string name="lens_dirty_detected_title_back">A lente da câmera traseira está suja</string>
+  <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
+  <string name="back_bokeh_use_hint">"Certifique-se de que o objeto não esteja mais do que 1,5 metro."</string>
 </resources>
